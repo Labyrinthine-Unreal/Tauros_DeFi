@@ -1,0 +1,10 @@
+{
+  "short_name": "TaurosDAO Defi",
+  "name": "TaurosDAO Defi",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
